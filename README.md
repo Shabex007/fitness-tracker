@@ -2,11 +2,6 @@
 
 A console-based fitness tracking application that helps users log exercises, track calories burned, and set fitness goals.
 
-## Repository Information
-
-- **Name**: java-fitness-tracker
-- **Description**: "A comprehensive fitness tracking application with exercise logging, calorie calculation, and goal setting"
-
 ## Features
 
 - 👤 User profile creation (name, weight)
